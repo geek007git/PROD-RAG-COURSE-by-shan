@@ -210,7 +210,10 @@ This course edition is maintained by **Shanmugapriyan** and expands the original
 ### Code contributors and acknowledgements
 
 - **Jam With AI** — creators of the original open-source course and implementation.
-- **[Andrej Karpathy](https://github.com/karpathy)** — code contributor credit for the base code used to build the Agentic RAG implementation in `src/services/agents/`.
+
+### Related code and research references
+
+- **[Andrej Karpathy](https://github.com/karpathy)** — creator of [NeuralTalk](https://github.com/karpathy/neuraltalk), an educational image-captioning codebase that demonstrates recurrent neural networks, context-conditioned token prediction, and autoregressive sequence generation. NeuralTalk is a separate project and serves as a conceptual reference for understanding the generation stage of this course's RAG pipeline. See [the NeuralTalk reference note](docs/NEURALTALK_REFERENCE.md).
 
 The project is available under the MIT License. Because this is a derivative work, both the original 2025 Jam With AI copyright notice and the 2026 Shanmugapriyan notice are preserved in [LICENSE](LICENSE).
 
