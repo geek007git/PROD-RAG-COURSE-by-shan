@@ -215,6 +215,19 @@ This course edition is maintained by **Shanmugapriyan** and expands the original
 
 - **[Andrej Karpathy](https://github.com/karpathy)** — creator of [NeuralTalk](https://github.com/karpathy/neuraltalk), an educational image-captioning codebase that demonstrates recurrent neural networks, context-conditioned token prediction, and autoregressive sequence generation. NeuralTalk is a separate project and serves as a conceptual reference for understanding the generation stage of this course's RAG pipeline. See [the NeuralTalk reference note](docs/NEURALTALK_REFERENCE.md).
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/karpathy">
+        <img src="https://github.com/karpathy.png?size=120" width="100" alt="Andrej Karpathy"><br>
+        <sub><strong>Andrej Karpathy</strong></sub>
+      </a><br>
+      <sub>External code reference author</sub><br>
+      <sub><a href="https://github.com/karpathy/neuraltalk">NeuralTalk</a> · sequence generation</sub>
+    </td>
+  </tr>
+</table>
+
 The project is available under the MIT License. Because this is a derivative work, both the original 2025 Jam With AI copyright notice and the 2026 Shanmugapriyan notice are preserved in [LICENSE](LICENSE).
 
 ---
