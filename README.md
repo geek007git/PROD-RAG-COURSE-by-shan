@@ -207,6 +207,11 @@ This repository is a learning environment, not a hardened production deployment.
 
 This course edition is maintained by **Shanmugapriyan** and expands the original open-source **Mother of AI / Production Agentic RAG Course** by **Jam With AI**. The structure, explanations, exercises, and student guides in this edition are customized for a clearer beginner experience.
 
+### Acknowledgements
+
+- **Jam With AI** — creators of the original open-source course and implementation.
+- **[Andrej Karpathy](https://github.com/karpathy)** — acknowledged for his influential, code-first approach to making neural networks and modern AI understandable. This is a credit for educational inspiration; it does not imply direct contribution to or endorsement of this repository.
+
 The project is available under the MIT License. Because this is a derivative work, both the original 2025 Jam With AI copyright notice and the 2026 Shanmugapriyan notice are preserved in [LICENSE](LICENSE).
 
 ---
